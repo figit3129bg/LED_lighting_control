@@ -7,7 +7,10 @@ This is a project of controlling LED strips, using an ESP32.
   3. Minimalistic look
   4. Black and White colour palette
   5. Hidden cables, and if visible - to look neat
-  6. ...
+  6. To have a hidden Power and computing box and only the interface box to be visible
+  7. Have atleast 10 channels ( capability for 5 dual channel LED strips or atleast 7 normal LED strips)
+  8. Full Cost under 50euro
+  9. ...
 
 ## 0. Hardware available now:
 |#| Component|
