@@ -16,7 +16,7 @@ This is a project of controlling LED strips, using an ESP32.
 |#| Component|
 |---|---|
 |1| ESP32 S3|
-|2| 12V 40A power supply|
+|2| 12V 20.8A 200W power supply|
 |3| OLED screen (128×64 pixels)|
 |4| 2x Rotary encoder|
 |5| 5x 3pos swithes|
@@ -25,6 +25,8 @@ This is a project of controlling LED strips, using an ESP32.
 |#| Component|
 |---|---|
 |1| LED strips|
+|2| BUCK converter|
+|3| 3x 4 mosfets driver curcuits|
 
 ## 2. Plan for hardware:
 
