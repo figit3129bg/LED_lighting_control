@@ -12,6 +12,9 @@ This is a project of controlling LED strips, using an ESP32.
   8. Full Cost under 50euro
   9. ...
 
+## Nice to have
+  1. Build in space for JHF PWC TX007 V5.1 (Wireless charger)
+
 ## 0. Hardware available now:
 |#| Component|
 |---|---|
